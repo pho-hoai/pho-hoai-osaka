@@ -14,6 +14,9 @@ export default {
         primaryYellow: "var(--primaryYellow)",
         primaryRed: "var(--primaryRed)",
       },
+      fontFamily: {
+        arizonia: ["var(--font-arizonia)", "cursive"],
+      },
     },
   },
   plugins: [],

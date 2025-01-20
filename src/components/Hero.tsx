@@ -39,7 +39,7 @@ export default function Hero() {
             Xem thực đơn
           </Link>
         </div>
-        <div className="mt-12 flex justify-center space-x-6">
+        {/* <div className="mt-12 flex justify-center space-x-6">
           <div className="text-center">
             <p className="text-3xl font-bold">4.9</p>
             <p className="text-sm">500+ Reviews</p>
@@ -52,7 +52,7 @@ export default function Hero() {
             <p className="text-3xl font-bold">30+</p>
             <p className="text-sm">Signature Dishes</p>
           </div>
-        </div>
+        </div> */}
       </div>
     </section>
   );

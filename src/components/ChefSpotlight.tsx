@@ -1,16 +1,17 @@
 import Image from "next/image";
+import chef_1 from "@/assets/chef/chef-1.jpg";
 
 export default function ChefSpotlight() {
   return (
-    <section className="py-16 bg-white">
+    <section className="py-16 bg-white text-black">
       <div className="container mx-auto px-4">
         <h2 className="text-3xl md:text-4xl font-bold text-center mb-12">
-          Đầu bếp
+          Giới thiệu Đầu bếp Đào Thanh Hoài
         </h2>
         <div className="flex flex-col md:flex-row items-center md:items-start space-y-8 md:space-y-0 md:space-x-12">
           <div className="md:w-1/3">
             <Image
-              src="/placeholder.svg?height=400&width=300"
+              src={chef_1}
               alt="Chef Portrait"
               width={300}
               height={400}
@@ -19,26 +20,28 @@ export default function ChefSpotlight() {
           </div>
           <div className="md:w-2/3">
             <h3 className="text-2xl font-semibold mb-4">
-              Bí quyết từ bàn tay tài hoa
+              Người gìn giữ hương vị phở truyền thống
             </h3>
-            <p className="text-lg mb-6">
-              Đầu bếp chính của Phở Hoài 666, anh/chị Hoài [tên đầy đủ nếu có],
-              có hơn 20 năm kinh nghiệm trong việc chế biến phở truyền thống.
-              Với niềm đam mê ẩm thực và kỹ năng tinh tế, chúng tôi cam kết mang
-              đến bát phở chuẩn vị, trọn vẹn yêu thương trong từng sợi bánh,
-              từng lát thịt.
+            <p className="text-lg mb-6 text-gray-600">
+              Đầu bếp Đào Thanh Hoài, với hơn 20 năm kinh nghiệm trong lĩnh vực
+              nấu phở truyền thống, là người đứng sau những tô phở chuẩn vị của
+              thương hiệu Phở Hoài. Mang trong mình niềm đam mê mãnh liệt và cái
+              tâm với nghề, anh không ngừng nỗ lực để gìn giữ và phát triển
+              hương vị phở gia truyền qua từng bát phở phục vụ thực khách. Từng
+              công đoạn, từ chọn lựa nguyên liệu đến chế biến nước lèo hay xử lý
+              từng phần thịt, đều được đầu bếp Hoài thực hiện với sự tỉ mỉ và
+              tâm huyết.
             </p>
-            <blockquote className="italic text-gray-600 border-l-4 border-green-500 pl-4 mb-6">
-              &quot;Cooking is not just about ingredients, recipes, and
-              techniques. It&apos;s about harnessing the elements of nature to
-              create a memorable experience for our guests.&quot;
+            <blockquote className="italic text-black border-l-4 border-primaryYellow pl-4 mb-6 font-medium">
+              Nấu phở là gửi gắm yêu thương
             </blockquote>
-            <p className="text-lg">
-              Chef Maria&apos;s signature dishes include her renowned
-              &quot;Deconstructed Ratatouille&quot; and &quot;Truffle-infused
-              Risotto with Wild Mushrooms.&quot; Don&apos;t miss the opportunity
-              to experience her culinary mastery during your visit to Gourmet
-              Haven.
+            <p className="text-lg text-gray-600">
+              Với triết lý “nấu phở là gửi gắm yêu thương,” anh cam kết mang đến
+              cho khách hàng những tô phở không chỉ thơm ngon, đậm đà mà còn
+              trọn vẹn tinh thần và giá trị văn hóa Việt Nam. Hãy cùng đến và
+              thưởng thức để cảm nhận sự khác biệt trong từng hương vị, nơi tinh
+              hoa của phở truyền thống được thăng hoa qua bàn tay tài hoa của
+              đầu bếp Đào Thanh Hoài!
             </p>
           </div>
         </div>

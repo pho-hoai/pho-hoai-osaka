@@ -7,6 +7,8 @@ import History from '@/components/History'
 import Blog from '@/components/Blog'
 import Footer from '@/components/Footer'
 import ChefSpotlight from '@/components/ChefSpotlight'
+import DiningExperience from '@/components/DiningExperience'
+import MenuDetail from '@/components/MenuDetail'
 
 
 export default function Home() {
@@ -18,6 +20,8 @@ export default function Home() {
         <History />
         <Menu />
         <ChefSpotlight />
+        <MenuDetail />
+        <DiningExperience />
         <Blog />
       </main>
       <Footer />

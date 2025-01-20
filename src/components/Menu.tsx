@@ -21,17 +21,17 @@ const menuImages = [Menu1, Menu2, Menu3, Menu4, Menu5, Menu6, Menu7];
 
 export default function Menu() {
   return (
-    <section id="menu" className="py-12 bg-white">
+    <section id="menu" className="py-12 bg-stone-100">
       <div className="container mx-auto px-4">
-        <h2 className="text-3xl md:text-4xl font-bold text-center mb-6">
-          Our Menu
+        <h2 className="text-3xl md:text-4xl font-bold text-center mb-6 text-black">
+         Hình ảnh menu
         </h2>
-        <Carousel className="max-w-3xl mx-auto">
+        <Carousel className="max-w-2xl mx-auto">
           <CarouselContent>
             {menuImages.map((src, index) => (
               <CarouselItem key={index}>
                 <Card className="border-none">
-                  <CardContent className="flex aspect-[3/4] items-center justify-center p-0">
+                  <CardContent className="flex aspect-[1414/2000] items-center justify-center p-0">
                     <Image
                       src={src || "/placeholder.svg"}
                       alt={`Menu page ${index + 1}`}
@@ -44,10 +44,10 @@ export default function Menu() {
               </CarouselItem>
             ))}
           </CarouselContent>
-          <div className="pointer-events-none absolute inset-y-0 left-0 w-1/4 bg-gradient-to-r from-white dark:from-background  hidden md:block"></div>
-          <div className="pointer-events-none absolute inset-y-0 right-0 w-1/4 bg-gradient-to-l from-white dark:from-background hidden md:block"></div>
-          <CarouselPrevious className="left-4" />
-          <CarouselNext className="right-4" />
+          {/* <div className="pointer-events-none absolute inset-y-0 left-0 w-1/4 bg-gradient-to-r from-white dark:from-background  hidden md:block"></div> */}
+          {/* <div className="pointer-events-none absolute inset-y-0 right-0 w-1/4 bg-gradient-to-l from-white dark:from-background hidden md:block"></div> */}
+          <CarouselPrevious className="left-4 bg-white text-black" />
+          <CarouselNext className="right-4 bg-white text-black" />
         </Carousel>
       </div>
     </section>

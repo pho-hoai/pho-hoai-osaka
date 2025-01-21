@@ -21,7 +21,7 @@ const menuImages = [Menu1, Menu2, Menu3, Menu4, Menu5, Menu6, Menu7];
 
 export default function Menu() {
   return (
-    <section id="menu" className="py-12 bg-stone-100">
+    <section id="menu" className="py-12 bg-stone-100 scroll-mt-16 md:scroll-mt-24">
       <div className="container mx-auto px-4">
         <h2 className="text-3xl md:text-4xl font-bold text-center mb-6 text-black">
          Hình ảnh menu

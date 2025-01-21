@@ -7,13 +7,11 @@
   --foreground: #171717;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-    --primaryYellow: #f0c929;
-    --primaryRed: #d32a1e
-  }
+:root {
+  --background: #0a0a0a;
+  --foreground: #ededed;
+  --primaryYellow: #fcc600;
+  --primaryRed: #d32a1e;
 }
 
 body {

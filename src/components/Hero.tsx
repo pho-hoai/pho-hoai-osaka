@@ -18,7 +18,7 @@ export default function Hero() {
         <TextAnimate
           animation="slideUp"
           by="word"
-          className="text-4xl sm:text-5xl md:text-6xl font-bold mb-4 "
+          className="text-5xl sm:text-6xl md:text-8xl font-bold mb-4 font-arizonia"
         >
           Phở Hoài 666
         </TextAnimate>
@@ -27,14 +27,15 @@ export default function Hero() {
           Tinh hoa phở Việt, hương vị gia đình.
         </p>
         <p className="text-lg mb-8 max-w-2xl mx-auto">
-          Phở Hoài 666 là nơi gìn giữ hương vị phở truyền thống Việt Nam.<br/>
-          Từng bát phở nóng hổi là kết tinh của tình yêu và tâm
-          huyết, mang đến trải nghiệm ẩm thực trọn vẹn cho mọi thực khách.
+          Phở Hoài 666 là nơi gìn giữ hương vị phở truyền thống Việt Nam.
+          <br />
+          Từng bát phở nóng hổi là kết tinh của tình yêu và tâm huyết, mang đến
+          trải nghiệm ẩm thực trọn vẹn cho mọi thực khách.
         </p>
         <div className="flex flex-col sm:flex-row justify-center items-center space-y-4 sm:space-y-0 sm:space-x-4">
           <Link
             href="#menu"
-            className="bg-primaryYellow hover:bg-green-600 text-white px-6 py-3 rounded-full text-lg font-semibold transition duration-300"
+            className="bg-primaryYellow  text-white px-6 py-3 rounded-full text-lg font-semibold transition duration-300"
           >
             Xem thực đơn
           </Link>

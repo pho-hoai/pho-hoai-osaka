@@ -8,19 +8,25 @@ import customer_6 from "@/assets/customer/customer-6.jpg";
 import ImagePreview from "./ui/image-preview";
 import { StaticImport } from "next/dist/shared/lib/get-img-props";
 
-// eslint-disable-next-line @typescript-eslint/no-explicit-any
-export const Cell = ({ image }: { image: any | StaticImport }) => {
+export const Cell = ({
+  image,
+  i,
+}: {
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  image: any | StaticImport;
+  i: number;
+}) => {
   return (
-    <div className="size-full rounded-lg center bg-zinc-200 dark:bg-zinc-900 max-h-64 overflow-hidden ">
+    <div className="size-full rounded-lg center bg-zinc-200 dark:bg-zinc-900 max-h-[300px] overflow-hidden cursor-pointer">
       <ImagePreview
         src={image}
         alt="Restaurant history"
-        width={600}
-        height={400}
-        // fill
-        // layout="fill"
-        // objectFit="cover"
-        className="rounded-lg shadow-md  hover:transition duration-300 hover:scale-105"
+        // width={600}
+        // height={400}
+        className={[
+          "rounded-lg shadow-md hover:transition duration-300 hover:scale-105 ",
+          i !== 0 && i !== 3 && i !== 4 ? "-translate-y-[30%]" : "",
+        ].join(" ")}
       />
     </div>
   );
@@ -53,7 +59,7 @@ const Blog = () => {
               i == 5 && "md:col-span-4"
             )}
           >
-            <Cell image={n} />
+            <Cell image={n} i={i} />
           </div>
         ))}
       </div>

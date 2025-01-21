@@ -6,13 +6,13 @@ export default function History() {
     <section id="history" className="py-16 text-black bg-white">
       <div className="container mx-auto px-4">
         <div className="flex flex-col md:flex-row items-center">
-          <div className="md:w-1/2 w-9/12 mb-8 md:mb-0">
+          <div className="md:w-1/2 w-9/12 mb-8 md:mb-0 mx-auto">
             <Image
               src={history}
               alt="Restaurant history"
-              // width={400}
-              // height={500}
-              className="rounded-lg shadow-md"
+              width={400}
+              height={500}
+              className="rounded-lg shadow-md mx-auto"
             />
           </div>
           <div className="md:w-1/2 md:pl-12">

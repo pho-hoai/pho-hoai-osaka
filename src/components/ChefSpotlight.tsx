@@ -13,9 +13,9 @@ export default function ChefSpotlight() {
             <Image
               src={chef_1}
               alt="Chef Portrait"
-              width={300}
+              width={400}
               height={400}
-              className="rounded-lg shadow-md"
+              className="rounded-lg shadow-md mx-auto"
             />
           </div>
           <div className="md:w-2/3">

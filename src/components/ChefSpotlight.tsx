@@ -1,3 +1,5 @@
+"use client";
+
 import Image from "next/image";
 import chef_1 from "@/assets/chef/chef-1.jpg";
 import { useTranslation } from "next-export-i18n";

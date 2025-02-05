@@ -1,3 +1,5 @@
+"use client";
+
 import Image from "next/image";
 import history from "@/assets/history.jpg";
 import { useTranslation } from "next-export-i18n";

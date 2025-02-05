@@ -1,5 +1,6 @@
 "use client";
 
+import { Suspense } from "react";
 import Header from "@/components/Header";
 import Hero from "@/components/Hero";
 import Menu from "@/components/Menu";
@@ -15,19 +16,21 @@ import OurProducts from "@/components/OurProduct";
 export default function Home() {
   return (
     <div className="min-h-screen bg-stone-100">
-      <Header />
-      <main>
-        <Hero />
-        <History />
-        <Menu />
-        <ChefSpotlight />
-        <MenuDetail />
-        <DiningExperience />
-        <Blog />
-        <OurProducts />
-      </main>
-      <Footer />
-      <FloatingMenu />
+      <Suspense fallback={<div>Loading...</div>}>
+        <Header />
+        <main>
+          <Hero />
+          <History />
+          <Menu />
+          <ChefSpotlight />
+          <MenuDetail />
+          <DiningExperience />
+          <Blog />
+          <OurProducts />
+        </main>
+        <Footer />
+        <FloatingMenu />
+      </Suspense>
     </div>
   );
 }

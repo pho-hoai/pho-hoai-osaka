@@ -1,8 +1,11 @@
+"use client";
+
 import Logo from "@/assets/logo.png";
 import { motion, useScroll, useTransform } from "framer-motion";
 import { useTranslation } from "next-export-i18n";
 import Image from "next/image";
 import LanguageSwitcher from "./LanguageSwitcher";
+
 export default function Header() {
   const { scrollY } = useScroll();
   const logoScale = useTransform(scrollY, [0, 600], [1, 0.7]);

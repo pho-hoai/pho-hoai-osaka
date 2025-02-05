@@ -1,3 +1,5 @@
+"use client";
+
 import { Phone, Mail, MapPin } from "lucide-react";
 import { useTranslation } from "next-export-i18n";
 

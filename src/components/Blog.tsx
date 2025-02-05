@@ -1,3 +1,5 @@
+"use client";
+
 import { cn } from "@/lib/utils";
 import customer_1 from "@/assets/customer/customer-1.jpg";
 import customer_2 from "@/assets/customer/customer-2.jpg";

@@ -1,0 +1,112 @@
+{
+  "blog": {
+    "title": "Hình ảnh thực khách"
+  },
+  "chefSpotlight": {
+    "title": "Giới thiệu Đầu bếp Đào Thanh Hoài",
+    "subtitle": "Người gìn giữ hương vị phở truyền thống",
+    "description1": "Đầu bếp Đào Thanh Hoài, với hơn 20 năm kinh nghiệm trong lĩnh vực nấu phở truyền thống, là người đứng sau những tô phở chuẩn vị của thương hiệu Phở Hoài. Mang trong mình niềm đam mê mãnh liệt và cái tâm với nghề, anh không ngừng nỗ lực để gìn giữ và phát triển hương vị phở gia truyền qua từng bát phở phục vụ thực khách. Từng công đoạn, từ chọn lựa nguyên liệu đến chế biến nước lèo hay xử lý từng phần thịt, đều được đầu bếp Hoài thực hiện với sự tỉ mỉ và tâm huyết.",
+    "quote": "Nấu phở là gửi gắm yêu thương",
+    "description2": "Với triết lý “nấu phở là gửi gắm yêu thương,” anh cam kết mang đến cho khách hàng những tô phở không chỉ thơm ngon, đậm đà mà còn trọn vẹn tinh thần và giá trị văn hóa Việt Nam. Hãy cùng đến và thưởng thức để cảm nhận sự khác biệt trong từng hương vị, nơi tinh hoa của phở truyền thống được thăng hoa qua bàn tay tài hoa của đầu bếp Đào Thanh Hoài!"
+  },
+  "diningExperience": {
+    "title": "Hướng dẫn thưởng thức phở tại Phở Hoài",
+    "description": "Tại Phở Hoài chi nhánh Việt Nam, khách hàng có thể trải nghiệm trọn vẹn hương vị với các gia vị đặc trưng như: tương ớt nhà làm, tỏi ngâm giấm được tự tay ủ, sa tế cay, tương đen, ớt thái lát, chanh tươi và các loại rau thơm ăn kèm. Trong khi đó, tại chi nhánh Phở Hoài Osaka, do những hạn chế trong khâu nguyên vật liệu, chúng tôi phục vụ các gia vị đi kèm như tương ớt Bắc nhà làm, tỏi ngâm giấm táo chế biến từ táo Nhật Bản, tương đen và chanh tươi. Dù giản đơn hơn, bộ gia vị tại đây vẫn đảm bảo mang đến hương vị hài hòa và độc đáo đúng chuẩn Phở Hoài.",
+    "stepsTitle": "Cách ăn phở kiểu Phở Hoài:",
+    "steps": [
+      "Nếm thử nước dùng trước khi thêm gia vị. Một tô phở ngon chuẩn vị phải có nước dùng đậm đà, đủ sức hấp dẫn ngay cả khi chưa cần thêm gia vị.",
+      "Tùy theo khẩu vị, thêm các loại gia vị như chanh, tương ớt, tương đen, tỏi ngâm, giá đỗ… vào tô phở. Trộn đều và khuấy nhẹ để các hương vị hòa quyện.",
+      "Ăn phở kèm món phụ như quẩy để tận hưởng sự đa dạng và phong phú của hương vị.",
+      "Thưởng thức từng gắp phở, từng miếng thịt, kèm theo vài muỗng nước dùng. Cảm nhận sự cân bằng giữa các nguyên liệu cho đến khi gần cạn nước.",
+      "Một tô phở đúng điệu là khi ăn xong, nước dùng vẫn giữ được độ ấm, đủ để thực khách húp cạn và cảm nhận hương vị trọn vẹn đến giọt cuối cùng."
+    ],
+    "last": "Đây chính là nghệ thuật thưởng thức phở theo phong cách Phở Hoài – nơi mỗi tô phở là một trải nghiệm ẩm thực đầy tinh tế và yêu thương!"
+  },
+  "footer": {
+    "title": "Phở Hoài 666",
+    "contactTitle": "Liên Hệ",
+    "addressTitle": "Địa chỉ",
+    "phone1": "（＋81）8055491293 ZALO",
+    "phone2": "（＋81）7084473456",
+    "phone3": "（＋84）918817112",
+    "email": "hinahome.jp@gmail.com",
+    "address1": "大阪市西成区南津守3-10-16",
+    "address2": "Trụ sở: 大阪市西成区松3-11-22"
+  },
+  "header": {
+    "contact": "Liên Hệ",
+    "brandName": "Phở Hoài 666"
+  },
+  "hero": {
+    "title": "Phở Hoài 666",
+    "subtitle": "Tinh hoa phở Việt, hương vị gia đình.",
+    "description": "Phở Hoài 666 là nơi gìn giữ hương vị phở truyền thống Việt Nam. Từng bát phở nóng hổi là kết tinh của tình yêu và tâm huyết, mang đến trải nghiệm ẩm thực trọn vẹn cho mọi thực khách.",
+    "menuButton": "Xem thực đơn"
+  },
+  "history": {
+    "title": "Lịch sử quán 📖",
+    "description1": "Phở Hoài, từ một quán nhỏ bên vỉa hè Sài Gòn những năm đầu thế kỷ 21, nay đã trở thành điểm đến lý tưởng cho các tín đồ yêu phở. Khởi nguồn từ niềm đam mê mãnh liệt với món phở, chúng tôi luôn gìn giữ trọn vẹn hương vị gia truyền và tinh hoa văn hóa ẩm thực qua nhiều thế hệ. Hành trình phát triển của Phở Hoài không chỉ là sự mở rộng về quy mô mà còn là câu chuyện đầy cảm hứng về sự tận tâm, lòng đam mê, và tình yêu nghề. Từng tô phở chính là lời tri ân gửi đến thực khách, cùng mong muốn giữ mãi nét đẹp truyền thống của món ăn đặc trưng này.",
+    "description2": "Ngày 11/11/2024 đánh dấu một cột mốc quan trọng khi chi nhánh Phở Hoài đầu tiên chính thức khai trương tại Osaka, Nhật Bản. Đây là bước đi đầu tiên trên hành trình chinh phục ẩm thực toàn cầu, mang theo sứ mệnh nâng tầm phở Việt trở thành một trong những món ăn ngon nhất thế giới và biểu tượng đặc trưng của ẩm thực Việt Nam. Phở Hoài tự hào giới thiệu hương vị truyền thống và giá trị văn hóa đậm đà, với mong muốn không chỉ chinh phục khẩu vị quốc tế mà còn lan tỏa tình yêu đối với ẩm thực quê hương đến khắp năm châu."
+  },
+  "menu": {
+    "title": "Hình ảnh menu"
+  },
+  "menuDetail": {
+    "title": "Thực đơn tại phở hoài Osaka :",
+    "items": [
+      {
+        "title": "Phở tái lăn",
+        "description": "Món phở tái lăn sử dụng thịt bò Nhật A4, khi xào trên chảo nóng rực lửa với gừng tươi, đã tạo ra một hương thơm dịu dàng đầy quyến rũ. Khi kết hợp với hành lá xanh mướt và nước lèo đậm đà, món ăn không chỉ khiến người ta mê mẩn bởi mùi hương đặc trưng mà còn làm say lòng thực khách bởi sắc màu hấp dẫn. Từng miếng thịt mềm mại, đậm vị, hòa quyện trong hương vị tổng thể, chắc chắn sẽ là trải nghiệm ẩm thực khó quên."
+      },
+      {
+        "title": "Phở tái",
+        "description": "Thịt bò Nhật A4 mềm mại, khi kết hợp với nước lèo chuẩn vị đặc trưng của thương hiệu Phở Hoài, đã tạo nên một tô phở tái hoàn hảo. Hương vị đậm đà, tinh tế hòa quyện trong từng sợi bánh phở và lát thịt bò tan ngay trong miệng, mang đến trải nghiệm ẩm thực khó quên. Một lần thưởng thức là một lần đọng lại trong lòng thực khách, khiến họ luôn mong muốn quay lại để cảm nhận hương vị tuyệt vời này."
+      },
+      {
+        "title": "Phở nạm",
+        "description": "Phần bắp bò, dưới bàn tay tài hoa của đầu bếp Phở Hoài, được chế biến thành món thịt nạm mềm mại, thấm đượm hương thơm từ gia vị và nước lèo đặc trưng. Đặc biệt, món ăn không hề có mùi bò gây khó chịu, mà thay vào đó là sự hấp dẫn tinh tế trong từng thớ thịt. Đây chính là lựa chọn yêu thích của thực khách mọi lứa tuổi, từ người già đến trẻ nhỏ, nhờ hương vị hài hòa và dễ dàng chinh phục mọi khẩu vị."
+      },
+      {
+        "title": "Phở bò wagyu A5",
+        "description": "Phở bò A5, sử dụng loại thịt bò Wagyu cao cấp nhất từ Nhật Bản, đã được Phở Hoài lựa chọn để phục vụ những thực khách sành ăn. Miếng thịt bò mềm mịn, tan ngay trong miệng, với phần mỡ béo ngậy nhưng không hề gây ngấy, tạo nên một trải nghiệm ẩm thực tuyệt vời. Được nuôi dưỡng bằng phương pháp đặc biệt, bò Wagyu Nhật mang đến chất lượng thớ thịt mà ngay cả những thị trường lớn như Mỹ và Úc cũng không thể sánh bằng. Sự kết hợp giữa phở truyền thống và loại thịt thượng hạng này đã nâng tầm món phở bò của Phở Hoài lên một đẳng cấp mới, khẳng định vị thế trong lòng thực khách yêu ẩm thực tinh tế."
+      },
+      {
+        "title": "Phở gân",
+        "description": "Gân bò mềm là một trong những món đặc trưng tiêu biểu của Phở Hoài Osaka nói riêng và toàn hệ thống chi nhánh Phở Hoài nói chung. Với công thức hầm gân bò đặc biệt, miếng gân luôn giữ được độ mềm dẻo, trong suốt và không hề gây ngấy. Đặc biệt, gân bò tại Phở Hoài được tuyển chọn kỹ lưỡng ngay từ khâu nhập hàng, đảm bảo chất lượng cao nhất, nhưng cũng vì vậy mà số lượng luôn có hạn. Đây không chỉ là một món topping lý tưởng mà còn là nguồn collagen tự nhiên, khiến các tín đồ yêu phở khó lòng cưỡng lại sức hấp dẫn của nó."
+      },
+      {
+        "title": "Phở gà",
+        "description": "Phở gà tại Phở Hoài mang một phong cách đặc biệt khi vẫn sử dụng nước lèo ninh từ xương bò, tạo nên hương vị đậm đà và độc đáo. Chỉ sử dụng phần thịt đùi gà, món ăn đảm bảo độ mềm mại, không bở như thịt ức gà. Điểm đặc biệt hơn, thịt gà được luộc trực tiếp trong nồi nước lèo, giúp gia vị phở thấm đều vào từng thớ thịt. Nhờ đó, mỗi miếng thịt gà đều tỏa ra hương thơm đặc trưng, quyến rũ, khiến thực khách khó lòng quên được hương vị tinh tế này."
+      },
+      {
+        "title": "Phở thập cẩm",
+        "description": "Phở thập cẩm tại Phở Hoài là sự kết hợp hoàn hảo của tất cả các loại topping, mang đến trải nghiệm ẩm thực phong phú và trọn vẹn. Từ miếng thịt bò mềm mại, gân bò dai giòn, đến phần nạm béo ngậy hay gà đậm đà hương vị, mỗi thành phần đều góp phần tạo nên một bản hòa ca cho vị giác. Thực khách sẽ được dẫn dắt qua từng cung bậc hương vị, từ nhẹ nhàng tinh tế đến đậm đà khó quên. Đây là món ăn mà bất cứ ai lần đầu đến quán cũng khó lòng bỏ qua."
+      },
+      {
+        "title": "Món ăn kèm : chả giò truyền thống",
+        "description": "Chả giò truyền thống là món ăn mà thực khách quốc tế luôn ưu tiên thưởng thức khi đến các quán ăn Việt Nam. Sự hấp dẫn đặc biệt nằm ở phần nhân thịt được kết hợp hài hòa cùng các nguyên liệu tươi ngon, mang đến hương vị đậm đà khó quên. Lớp vỏ bánh tráng chiên vàng giòn rụm, tạo nên âm thanh 'rôm rốp' đầy kích thích trong mỗi miếng cắn, nhưng lại không gây cảm giác ngán như các món chiên rán thông thường của fast food. Đây chính là món ăn vừa giữ được nét truyền thống vừa chinh phục khẩu vị của thực khách khắp nơi trên thế giới." 
+      }
+    ]
+  },
+  "ourProducts": {
+    "title": "Giới thiệu sản phẩm",
+    "comingSoon": {
+      "title": "Sắp Có Thêm Nhiều Sản Phẩm Mới!",
+      "description": "Chúng tôi đang mở rộng danh mục sản phẩm để phục vụ người Việt tại Nhật tốt hơn. Trong thời gian tới, sẽ có thêm nhiều nguyên liệu và thực phẩm Việt Nam chất lượng, giúp bạn dễ dàng chuẩn bị bữa ăn đậm hương vị quê hương. Hãy theo dõi để không bỏ lỡ những sản phẩm mới!"
+    }
+  },
+  "products": {
+    "1": {
+      "name": "Bún Tươi Đóng Gói",
+      "description": "Sợi bún tươi,phù hợp với nhiều món như bún bò, bún riêu, bún chả. Chỉ cần trụng nước sôi là có ngay món bún thơm ngon."
+    },
+    "2": {
+      "name": "Phở Tươi Đóng Gói",
+      "description": "Sợi phở tươi mềm, dễ nấu, không chất bảo quản. Đóng gói tiện lợi, giúp bạn thưởng thức tô phở đậm đà ngay tại Nhật mà không mất nhiều thời gian chuẩn bị."
+    },
+    "3": {
+      "name": "Gạo thơm Việt Nam",
+      "description": "Gạo thơm, dẻo hoặc tơi xốp tùy loại, phù hợp với khẩu vị người Việt. Đảm bảo chất lượng, giúp bạn có bữa cơm ngon như ở nhà."
+    }
+  }
+}

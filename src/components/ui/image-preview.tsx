@@ -25,7 +25,7 @@ export default function ImagePreview({
           height={100}
         />
       </DialogTrigger>
-      <DialogContent className="max-w-7xl border-0 bg-transparent p-0">
+      <DialogContent className="max-w-7xl border-0 bg-transparent p-0" aria-describedby="image-preview-title">
         <DialogClose>
           <div className="absolute right-4 top-4 z-10 rounded-full bg-black/50 p-2 text-white hover:bg-black/75 focus:outline-none">
             <X className="h-6 w-6" />

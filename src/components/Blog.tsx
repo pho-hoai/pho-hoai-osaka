@@ -7,6 +7,7 @@ import customer_5 from "@/assets/customer/customer-5.jpg";
 import customer_6 from "@/assets/customer/customer-6.jpg";
 import ImagePreview from "./ui/image-preview";
 import { StaticImport } from "next/dist/shared/lib/get-img-props";
+import { useTranslation } from "next-export-i18n";
 
 export const Cell = ({
   image,
@@ -41,10 +42,11 @@ const cells = [
 ];
 //======================================
 const Blog = () => {
+  const { t } = useTranslation();
   return (
     <div className="container mx-auto px-4 py-12 text-black">
       <h2 className="text-3xl md:text-4xl font-bold text-center mb-12">
-        Hình ảnh thực khách
+        {t("blog.title")}
       </h2>
       <div className=" mx-auto grid sm:grid-cols-2 md:grid-cols-6 gap-2 mb-12">
         {cells.map((n, i) => (

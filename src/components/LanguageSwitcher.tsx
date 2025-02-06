@@ -17,7 +17,9 @@ import { useMemo } from "react";
 const languages = [
   { code: "vi", name: "Tiếng Việt", flag: "🇻🇳" },
   { code: "ja", name: "日本語", flag: "🇯🇵" },
-  // { code: "en", name: "English", flag: "🇬🇧" },
+  { code: "zh", name: "中文", flag: "🇨🇳" },
+  { code: "ko", name: "한국어", flag: "🇰🇷" },
+  { code: "en", name: "English", flag: "🇬🇧" },
 ];
 
 export default function LanguageSwitcher() {

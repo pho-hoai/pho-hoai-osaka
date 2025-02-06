@@ -1,0 +1,112 @@
+{
+  "blog": {
+    "title": "Customer Photos"
+  },
+  "chefSpotlight": {
+    "title": "Introducing Chef Đào Thanh Hoài",
+    "subtitle": "Guardian of Traditional Pho Flavor",
+    "description1": "Chef Đào Thanh Hoài, with over 20 years of experience in traditional pho cooking, is the person behind the authentic pho bowls of the Phở Hoài brand. With a passionate heart and dedication to the profession, he continuously strives to preserve and develop the family pho flavor in each bowl served to customers. Every step, from selecting ingredients to preparing the broth or handling each piece of meat, is meticulously and passionately executed by Chef Hoài.",
+    "quote": "Cooking pho is sending love",
+    "description2": "With the philosophy of 'cooking pho is sending love,' he is committed to bringing customers not only delicious and rich pho bowls but also the complete spirit and cultural values of Vietnam. Come and enjoy to feel the difference in each flavor, where the essence of traditional pho is elevated through the talented hands of Chef Đào Thanh Hoài!"
+  },
+  "diningExperience": {
+    "title": "Guide to Enjoying Pho at Phở Hoài",
+    "description": "At Phở Hoài Vietnam branch, customers can experience the full flavor with signature condiments such as homemade chili sauce, hand-pickled garlic, spicy satay, black sauce, sliced chili, fresh lemon, and various herbs. Meanwhile, at Phở Hoài Osaka branch, due to ingredient limitations, we serve accompanying condiments such as homemade Northern chili sauce, pickled garlic made from Japanese apples, black sauce, and fresh lemon. Although simpler, the condiment set here still ensures a harmonious and unique Phở Hoài flavor.",
+    "stepsTitle": "How to eat pho Phở Hoài style:",
+    "steps": [
+      "Taste the broth before adding condiments. A delicious authentic pho bowl must have a rich broth that is attractive even without added condiments.",
+      "Depending on your taste, add condiments such as lemon, chili sauce, black sauce, pickled garlic, bean sprouts, etc., to the pho bowl. Mix well and stir gently to blend the flavors.",
+      "Enjoy pho with side dishes like fried dough sticks to experience the diversity and richness of flavors.",
+      "Savor each bite of pho, each piece of meat, along with a few spoonfuls of broth. Feel the balance between the ingredients until the broth is almost gone.",
+      "An authentic pho bowl is when, after eating, the broth remains warm enough for the customer to sip the last drop and feel the complete flavor."
+    ],
+    "last": "This is the art of enjoying pho in Phở Hoài style – where each pho bowl is a culinary experience full of sophistication and love!"
+  },
+  "footer": {
+    "title": "Phở Hoài 666",
+    "contactTitle": "Contact",
+    "addressTitle": "Address",
+    "phone1": "(+81) 8055491293 ZALO",
+    "phone2": "(+81) 7084473456",
+    "phone3": "(+84) 918817112",
+    "email": "hinahome.jp@gmail.com",
+    "address1": "Osaka-shi Nishinari-ku Minamitsumori 3-10-16",
+    "address2": "Headquarters: Osaka-shi Nishinari-ku Matsu 3-11-22"
+  },
+  "header": {
+    "contact": "Contact",
+    "brandName": "Phở Hoài 666"
+  },
+  "hero": {
+    "title": "Phở Hoài 666",
+    "subtitle": "The essence of Vietnamese pho, the taste of home.",
+    "description": "Phở Hoài 666 is where the traditional Vietnamese pho flavor is preserved. Each hot pho bowl is a crystallization of love and passion, bringing a complete culinary experience to every customer.",
+    "menuButton": "View Menu"
+  },
+  "history": {
+    "title": "Restaurant History 📖",
+    "description1": "Phở Hoài, from a small street stall in Saigon in the early 21st century, has now become an ideal destination for pho lovers. Originating from a passionate love for pho, we always preserve the family flavor and culinary essence through generations. The development journey of Phở Hoài is not only about scale expansion but also an inspiring story of dedication, passion, and love for the profession. Each pho bowl is a thank you to customers, with the desire to maintain the traditional beauty of this unique dish.",
+    "description2": "On November 11, 2024, Phở Hoài's first branch officially opened in Osaka, Japan. This is the first step in the journey to conquer global cuisine, with the mission to elevate Vietnamese pho to one of the world's most delicious dishes and a symbol of Vietnamese cuisine. Phở Hoài proudly introduces the traditional flavor and rich cultural values, hoping to not only conquer international palates but also spread the love for hometown cuisine to all corners of the world."
+  },
+  "menu": {
+    "title": "Menu Images"
+  },
+  "menuDetail": {
+    "title": "Phở Hoài Osaka Menu:",
+    "items": [
+      {
+        "title": "Stir-fried Pho",
+        "description": "Stir-fried pho uses Japanese A4 beef, stir-fried with fresh ginger in a hot pan, releasing an enticing aroma. Combined with fresh green onions and rich broth, this dish captivates not only with its unique aroma but also with its mesmerizing colors. Each tender piece of meat is full of flavor, perfectly blending with the overall taste, providing an unforgettable culinary experience."
+      },
+      {
+        "title": "Rare Beef Pho",
+        "description": "Japanese A4 beef is tender, combined with the rich broth unique to the Phở Hoài brand, creating a perfect rare beef pho bowl. The rich, delicate flavor blends into each noodle and slice of beef, providing an unforgettable culinary experience. One taste leaves a deep impression on customers, making them always crave this wonderful flavor."
+      },
+      {
+        "title": "Brisket Pho",
+        "description": "Under the talented hands of Phở Hoài chefs, brisket is turned into tender meat pieces, absorbing the unique spices and rich broth. Especially, this dish has no unpleasant beef smell, but instead, each piece of meat exudes a delicate aroma. This is a favorite choice for customers of all ages, from the elderly to children, thanks to its harmonious flavor."
+      },
+      {
+        "title": "Wagyu A5 Beef Pho",
+        "description": "Wagyu A5 Beef Pho features the highest-grade Japanese Wagyu beef, carefully selected by Pho Hoai to satisfy discerning food lovers. The beef is incredibly tender, melting in your mouth with rich marbling that enhances its flavor without being overwhelming. Raised using special techniques, Japanese Wagyu offers a level of quality that even major markets like the US and Australia cannot match. This combination of traditional pho and premium Wagyu beef elevates the dish to a new level, solidifying its place as a must-try for those who appreciate fine cuisine."
+      },
+      {
+        "title": "Tendon Pho",
+        "description": "Tendon is one of the signature dishes of Phở Hoài Osaka branch and the entire Phở Hoài system. With a special stewing method, the tendon remains soft, transparent, and non-greasy. Especially, Phở Hoài's tendon is carefully selected from the procurement stage, ensuring the highest quality, but also limited in quantity. This is not only an ideal topping but also a natural source of collagen, making pho lovers hard to resist its allure."
+      },
+      {
+        "title": "Chicken Pho",
+        "description": "Phở Hoài's chicken pho uses broth made from beef bones, providing a rich and unique flavor. Only chicken thigh meat is used, ensuring tenderness, unlike dry chicken breast. More specially, the chicken is cooked directly in the broth, allowing the pho flavor to evenly penetrate each piece of meat. Therefore, each piece of chicken exudes a unique aroma, making customers unforgettable with this delicate flavor."
+      },
+      {
+        "title": "Combination Pho",
+        "description": "Phở Hoài's combination pho perfectly combines all toppings, providing a rich and complete culinary experience. From tender beef, chewy tendon, fatty brisket to rich chicken, each ingredient contributes to a symphony for the taste buds. Customers will be led through each level of flavor, from gentle sophistication to rich unforgettable taste. This is a dish that any first-time visitor to the restaurant cannot miss."
+      },
+      {
+        "title": "Side Dish: Traditional Spring Rolls",
+        "description": "Traditional spring rolls are the dish that international customers always prioritize when visiting Vietnamese restaurants. The special attraction lies in the harmonious combination of meat filling with fresh ingredients, providing a rich unforgettable flavor. The golden crispy crust creates a 'crunch' sound with each bite, but unlike fast food fried dishes, it is not greasy. This is a dish that retains tradition while conquering the taste buds of customers worldwide."
+      }
+    ]
+  },
+  "ourProducts": {
+    "title": "Product Introduction",
+    "comingSoon": {
+      "title": "More New Products Coming Soon!",
+      "description": "We are expanding our product catalog to better serve Vietnamese people in Japan. In the near future, there will be more high-quality Vietnamese ingredients and foods, helping you easily prepare meals full of hometown flavor. Stay tuned and don't miss out on new products!"
+    }
+  },
+  "products": {
+    "1": {
+      "name": "Packaged Fresh Vermicelli",
+      "description": "Suitable for many dishes such as beef vermicelli, crab vermicelli, grilled meat vermicelli. Just blanch in boiling water to enjoy delicious vermicelli."
+    },
+    "2": {
+      "name": "Packaged Fresh Pho",
+      "description": "Soft fresh pho noodles, easy to cook, no preservatives. Convenient packaging allows you to enjoy rich pho right in Japan without spending much time preparing."
+    },
+    "3": {
+      "name": "Vietnamese Fragrant Rice",
+      "description": "Fragrant rice, soft or fluffy, suitable for Vietnamese taste. Ensuring quality, helping you enjoy delicious meals like at home."
+    }
+  }
+}

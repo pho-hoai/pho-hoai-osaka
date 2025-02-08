@@ -56,7 +56,7 @@ export default function DiningExperience() {
                 <Image
                   src={Ingredient_1 || "/placeholder.svg"}
                   alt={`Dining experience step`}
-                  objectFit="cover"
+                  // objectFit="cover"
                 />
               </CardContent>
             </Card>

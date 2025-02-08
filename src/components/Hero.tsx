@@ -14,6 +14,8 @@ export default function Hero() {
       <Image
         src={hero}
         alt="Restaurant interior"
+        layout="fill"
+        objectFit="cover"
         className="absolute inset-0"
       />
       <div className="absolute inset-0 bg-black bg-opacity-60" />

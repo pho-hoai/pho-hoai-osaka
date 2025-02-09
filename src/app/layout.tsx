@@ -12,7 +12,9 @@ const arizonia = Arizonia<"--font-arizonia">({
 
 export const metadata: Metadata = {
   title: "Phở Hoài 666",
-  description: "Phở Hoài 666は、ベトナムの伝統的なフォーの味を守る場所です。各ボウルの熱々のフォーは、愛と情熱の結晶であり、すべてのお客様に完全な食の体験を提供します。",
+  description:
+    "Phở Hoài 666は、ベトナムの伝統的なフォーの味を守る場所です。各ボウルの熱々のフォーは、愛と情熱の結晶であり、すべてのお客様に完全な食の体験を提供します。",
+  metadataBase: new URL("https://phohoai666.org/"),
   openGraph: {
     type: "website",
     url: "https://phohoai666.org/",

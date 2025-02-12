@@ -12,11 +12,12 @@ import DiningExperience from "@/components/DiningExperience";
 import MenuDetail from "@/components/MenuDetail";
 import FloatingMenu from "@/components/FloatingContact";
 import OurProducts from "@/components/OurProduct";
+import Loading from "./loading";
 
 export default function Home() {
   return (
     <div className="min-h-screen bg-stone-100">
-      <Suspense fallback={<div>Loading...</div>}>
+      <Suspense fallback={<Loading />}>
         <Header />
         <main>
           <Hero />

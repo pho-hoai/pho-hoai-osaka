@@ -43,7 +43,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ja">
-      <GoogleTagManager gtmId="GTM-KVTRC924" />
+      <GoogleTagManager gtmId="G-X7T22M0PGD" />
       <body className={`${arizonia.variable} antialiased`}>{children}</body>
     </html>
   );

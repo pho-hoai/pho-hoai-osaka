@@ -8,6 +8,8 @@ const arizonia = Arizonia<"--font-arizonia">({
   variable: "--font-arizonia",
   subsets: ["vietnamese"],
   weight: "400",
+  display: "swap",
+  adjustFontFallback: false
 });
 
 export const metadata: Metadata = {
